@@ -74,10 +74,10 @@ __________          ________  ________   ________    _________
 
 =============================================================== 
 |Version : V.666           |
-|Team    : CYBERTROJAN     |
-|Create  : Mr CYBERTROJAN  |
+|Team    : CYBER-TROJAN-INDONESIA |
+|Create  : CYBER-TROJAN-INDONESIA |
 ############################## \n 
-	usage : python2 CYBERTROJAN.py (http.target.xxx)
+	usage : python2 DarkCrackDdos.py (http.target.xxx)
 	================================================= \033[91m''')
 	sys.exit()
 
